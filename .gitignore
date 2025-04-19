@@ -49,6 +49,5 @@ desktop.ini
 .env.*
 !.env.example
 
-# Docker
-.dockerignore
+# Docker specific 
 docker-compose.override.yml
